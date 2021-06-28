@@ -6,6 +6,8 @@ import numpy as np
 import openpyxl
 import smtplib
 
+#face recognition attendance system
+
 
 config = {
 	  "apiKey": "AIzaSyDZFaXexrptFx5dGnLnG04SApyS9N-Vb_c",
